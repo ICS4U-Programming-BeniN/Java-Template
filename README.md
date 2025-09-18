@@ -1,2 +1,2 @@
 # Template
-[![Mr Coxall's Super Linter](https://github.com/ICS4U-Programming-BeniN/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS4U-Programming-BeniN/actions/)
+[![Mr Coxall's Super Linter](README,md/../../../badge.svg)](https://github.com/ICS4U-Programming-BeniN/actions/)
